@@ -12,6 +12,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 - Entire part 5 exercise solutions.
+- Course certificate completion advice in the README file.
 
 ## [0.0.6] - 2023-05-11
 
